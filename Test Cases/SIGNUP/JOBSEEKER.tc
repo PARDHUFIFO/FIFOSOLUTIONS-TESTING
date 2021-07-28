@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>JOBSEEKER</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f9d2f70-635f-4853-abbd-f4613f149930</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>28a104b3-4428-4489-8057-a3d720875647</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
